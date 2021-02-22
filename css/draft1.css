@@ -1,0 +1,95 @@
+body{
+    background-color:lightgray;
+}
+.container-fluid{
+    background-color:cornflowerblue;
+    height: 60px;
+    width: 100%;
+}
+
+.container-fluid .nav-item-title{
+    padding-right: 90px;
+    font-size: 30px;
+}
+
+.container-fluid .col-4{
+    padding-top: 10px;
+    width: 450px;
+}
+
+.container-fluid .col-4 input{
+    height: 40px;
+}
+
+.container-fluid button{
+    margin-right: 250px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.container-fluid .nav-item{
+    padding-top: 10px;
+    font-size: 17px;
+}
+.container-fluid ul a{
+    color: white;
+}
+
+.sidebar{
+    width: 180px;
+}
+.sidebar .nav a{
+    color: black;
+}
+
+.sidebar .nav a:hover{
+    background-color:whitesmoke;
+}
+
+.sidebar .nav-item-subtitle{
+    font-size: 16px;
+    color: slategrey;
+    font-weight: 700;
+}
+
+.main .row{
+    position: relative;
+    left: 300px;
+    bottom: 390px;
+}
+
+.main .row .card{
+    width: 600px;
+}
+
+.main .row .card input{
+    height: 80px;
+}
+
+.main .row .card a{
+    margin-top: 10px;
+}
+.main .row-1{
+    position: relative;
+    left: 300px;
+    bottom: 350px;
+}
+
+.main .row-1 .card{
+    width: 600px;
+    height: 110px;
+}
+
+.main .row-1 .card button i{
+    font-size: 40px;
+    color: blue;
+}
+
+.main .row-1 .card span{
+    font-size: 25px;
+}
+
+.main .row-1 .card ul{
+    margin-left: 35px;
+}
